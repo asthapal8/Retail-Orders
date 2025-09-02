@@ -1,8 +1,8 @@
-This project analyzes retail sales data using Python (Jupyter Notebook) to uncover meaningful business insights.
+This project analyzes Retail Orders & Sales Analysis data using Python (Jupyter Notebook) to uncover meaningful business insights.
 
 - Key Highlights
 
-Cleaned and transformed the retail orders dataset using pandas.
+Cleaned and transformed  dataset using pandas.
 Performed exploratory data analysis (EDA) to identify patterns and trends.
 Visualized sales performance, top-selling products, and regional distribution with matplotlib and seaborn.
 Generated insights on sales, profit, and order distribution to support decision-making.
